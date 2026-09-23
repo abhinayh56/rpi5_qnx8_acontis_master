@@ -1,2 +1,0 @@
-INCLUDES += -I$(DIR_TASK_ROBOT_CONTROL)/EcTaskRobotControlBase
-INCLUDES += -I$(DIR_TASK_ROBOT_CONTROL)/EcTaskRobotControlFactory

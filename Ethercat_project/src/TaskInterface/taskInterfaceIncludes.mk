@@ -1,2 +1,0 @@
-INCLUDES += -I$(DIR_TASK_INTERFACE)/EcTaskInterfaceBase
-INCLUDES += -I$(DIR_TASK_INTERFACE)/EcInterfaceShm

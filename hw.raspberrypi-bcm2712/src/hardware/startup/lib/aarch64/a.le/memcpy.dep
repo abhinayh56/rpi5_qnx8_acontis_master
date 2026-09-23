@@ -1,2 +1,0 @@
-memcpy.o: \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/memcpy.c

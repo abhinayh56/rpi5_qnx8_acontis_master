@@ -1,3 +1,0 @@
-fdt_get_intr_cells.o: \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/fdt_get_intr_cells.c \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/sys/libfdt_private.h

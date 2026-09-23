@@ -1,8 +1,0 @@
-STATE=Desktop
-INSTALLDIR=aarch64le/bin/
-INSTALLNAME=spi-dwc
-NAME=spi-dwc
-USER=Dell
-HOST=SSIPLIT1128
-DATE=2026/09/23-14:43:44-IST
-DESCRIPTION = Designware SPI Driver
