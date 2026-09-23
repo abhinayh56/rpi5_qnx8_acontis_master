@@ -1,0 +1,9 @@
+hwibus_add_sdio.o: \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/hwibus_add_sdio.c \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/startup.h \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/sys/startup.h \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/aarch64/cpu_startup.h \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/arm/armboth_startup.h \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/sys/restore_ifs.h \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/hw/hwinfo_private.h \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/sys/hwinfo.h
