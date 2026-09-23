@@ -1,0 +1,5 @@
+tto.o: \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devc/serpl011/tto.c \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devc/serpl011/externs.h \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devc/serpl011/variant.h \
+ D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devc/serpl011/proto.h
