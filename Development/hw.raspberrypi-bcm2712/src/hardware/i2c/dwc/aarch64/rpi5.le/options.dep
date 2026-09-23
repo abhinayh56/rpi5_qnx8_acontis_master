@@ -1,4 +1,4 @@
 options.o: options.c \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/i2c/dwc/proto.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/i2c/dwc/dwc_i2c.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/i2c/dwc/proto.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/i2c/dwc/dwc_i2c.h \
  variant.h

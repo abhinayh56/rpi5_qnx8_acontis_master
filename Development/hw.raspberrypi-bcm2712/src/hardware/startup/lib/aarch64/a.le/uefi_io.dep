@@ -1,8 +1,8 @@
 uefi_io.o: \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/uefi_io.c \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/startup.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/sys/startup.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/aarch64/cpu_startup.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/arm/armboth_startup.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/sys/restore_ifs.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/hw/uefi.h
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/startup/lib/uefi_io.c \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/startup.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/sys/startup.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/aarch64/cpu_startup.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/arm/armboth_startup.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/sys/restore_ifs.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/startup/lib/public/hw/uefi.h

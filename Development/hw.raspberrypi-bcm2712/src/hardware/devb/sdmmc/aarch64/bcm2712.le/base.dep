@@ -1,10 +1,10 @@
 base.o: \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/base.c \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/internal.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/include/sdiodi.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/include/mmc.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/include/sd.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/base.c \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/internal.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/include/sdiodi.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/include/mmc.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/devb/sdmmc/sdiodi/include/sd.h \
  bs.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devb/include/xpt.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devb/include/cam.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/devb/include/module.h
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/devb/include/xpt.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/devb/include/cam.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/devb/include/module.h

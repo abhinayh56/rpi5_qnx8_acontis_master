@@ -727,5 +727,5 @@ LOAD C:/Users/Dell/qnx800/target/qnx/aarch64le/lib/crtn.o
  *(.note.GNU-stack)
  *(.gnu_debuglink)
  *(.gnu.lto_*)
-OUTPUT(C:\Users\Dell\AppData\Local\Temp\2qccMbKgHy\tmp_qcc_29044 elf64-littleaarch64)
+OUTPUT(C:\Users\Dell\AppData\Local\Temp\2qccNpeGQ0\tmp_qcc_41592 elf64-littleaarch64)
 LOAD linker stubs

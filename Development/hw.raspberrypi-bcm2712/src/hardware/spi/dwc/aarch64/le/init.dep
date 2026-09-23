@@ -1,4 +1,4 @@
 init.o: \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/spi/dwc/init.c \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/spi/dwc/init.c \
  dwc_variant.h \
- D:/temp/rpi5_qnx8_acontis_master/hw.raspberrypi-bcm2712/src/hardware/spi/dwc/dwc-spi.h
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712/src/hardware/spi/dwc/dwc-spi.h
