@@ -1,7 +1,7 @@
 sd.o: \
- C:/Users/Dell/ide-8.0-workspace/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/sd.c \
- C:/Users/Dell/ide-8.0-workspace/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/internal.h \
- C:/Users/Dell/ide-8.0-workspace/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/include/sdiodi.h \
- C:/Users/Dell/ide-8.0-workspace/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/include/mmc.h \
- C:/Users/Dell/ide-8.0-workspace/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/include/sd.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/sd.c \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/internal.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/include/sdiodi.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/include/mmc.h \
+ D:/temp/rpi5_qnx8_acontis_master/Development/hw.raspberrypi-bcm2712-rpi5/src/hardware/devb/sdmmc/sdiodi/include/sd.h \
  bs.h
